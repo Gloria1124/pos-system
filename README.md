@@ -3,7 +3,7 @@
 > A Vue.js project
 
 ## Oline demo
-[Gloria1124.github.io/pos-system](Gloria1124.github.io/pos-system)
+[https://gloria1124.github.io/pos-system/#/](https://gloria1124.github.io/pos-system/#/)
 
 ## Build Setup
 
